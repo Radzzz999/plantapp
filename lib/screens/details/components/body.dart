@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:plantapp/constants.dart';
+import 'package:pertemuan8/constants.dart';
+
 
 import 'image_and_icons.dart';
 import 'title_and_price.dart';

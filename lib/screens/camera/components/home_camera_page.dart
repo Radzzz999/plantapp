@@ -4,9 +4,11 @@ import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:permission_handler/permission_handler.dart';
 import 'package:fluttertoast/fluttertoast.dart';
-import 'package:plantapp/constants.dart';
-import 'package:plantapp/screens/camera/components/native_camera_page.dart';
-import 'package:plantapp/screens/camera/components/storage_helper.dart';
+import 'package:pertemuan8/constants.dart';
+import 'package:pertemuan8/screens/camera/components/native_camera_page.dart';
+import 'package:pertemuan8/screens/camera/components/storage_helper.dart';
+
+
 
 void showToast(String message) {
   Fluttertoast.showToast(

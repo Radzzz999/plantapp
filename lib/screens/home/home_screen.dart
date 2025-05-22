@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:plantapp/components/my_bottom_nav_bar.dart';
-import 'package:plantapp/constants.dart';
-import 'package:plantapp/screens/home/components/body.dart';
+import 'package:pertemuan8/components/my_bottom_nav_bar.dart';
+import 'package:pertemuan8/constants.dart';
+import 'package:pertemuan8/screens/home/components/body.dart';
+
 
 
 class HomeScreen extends StatelessWidget {

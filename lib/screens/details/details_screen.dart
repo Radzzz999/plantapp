@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:plantapp/screens/details/components/body.dart';
+import 'package:pertemuan8/screens/home/components/body.dart';
+
 
 class DetailsScreen extends StatelessWidget {
   const DetailsScreen({Key? key}) : super(key: key);

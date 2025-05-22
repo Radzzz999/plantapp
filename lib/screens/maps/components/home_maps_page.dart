@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:plantapp/screens/maps/components/native_map_page.dart';
+import 'package:pertemuan8/screens/maps/components/native_map_page.dart' show NativeMap;
+
 
 class HomeMapsPage extends StatefulWidget {
   const HomeMapsPage({super.key});

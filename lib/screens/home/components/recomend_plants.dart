@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:plantapp/screens/details/details_screen.dart';
+import 'package:pertemuan8/screens/details/details_screen.dart';
 
 import '../../../constants.dart';
 

@@ -1,5 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
+import 'package:pertemuan8/constants.dart';
+import 'package:pertemuan8/screens/camera/camera_screen.dart';
+import 'package:pertemuan8/screens/home/home_screen.dart';
+import 'package:pertemuan8/screens/maps/maps_screen.dart';
 
 
 
