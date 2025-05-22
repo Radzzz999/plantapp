@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:pertemuan8/screens/home/components/body.dart';
+import 'package:pertemuan8/screens/details/components/body.dart';
+
 
 
 class DetailsScreen extends StatelessWidget {
@@ -7,7 +8,7 @@ class DetailsScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Scaffold(
+    return Scaffold(
       body: Body(),
     );
   }
